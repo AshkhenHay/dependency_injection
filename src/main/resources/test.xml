@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task>
+    <title>jdbc_task</title>
+    <user>
+        <name>Ani</name>
+        <age>20</age>
+        <active>false</active>
+    </user>
+    <user>
+        <name>Anna</name>
+        <age>15</age>
+        <active>true</active>
+    </user>
+</task>
